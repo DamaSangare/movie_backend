@@ -14,7 +14,7 @@ Bienvenue dans l’API **MovieLens** – une API RESTful développée avec **Fas
 
 ## Prérequis
 
-- Python ≥ 3.12
+- Python ≥ 3.13
 - Un client HTTP comme `httpx` ou `requests`
 
 Installation rapide de `httpx` :
@@ -139,10 +139,10 @@ Les contributions sont les bienvenues !
 
 ## Auteur
 
-Développé par [Josué AFOUDA](https://www.linkedin.com/in/josu%C3%A9-afouda/) en FastAPI.
+Développé par [Dama SANGARE](https://www.linkedin.com/in/dama-sangare-b0a924203/) en FastAPI.
 
 ---
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Néant
