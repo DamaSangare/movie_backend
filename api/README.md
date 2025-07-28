@@ -129,13 +129,12 @@ Les contributions sont les bienvenues !
 
 ## Software Development Kit (SDK)
 
-*A venir*
-
+[damsmoviesdk](https://pypi.org/project/damsmoviesdk/)
 ---
 
 ## URL publique (Cloud) de l'API
 
-*A venir*
+[API movielens sur le cloud Render](https://movie-backend-3m0o.onrender.com/)
 
 ## Auteur
 
