@@ -144,4 +144,4 @@ Développé par [Dama SANGARE](https://www.linkedin.com/in/dama-sangare-b0a92420
 
 ## Licence
 
-Néant
+MIT
