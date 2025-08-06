@@ -1,5 +1,7 @@
 # 🎬 Projet : Construction d’un Écosystème Data pour l’Analyse Cinématographique
 
+![](architecturephase1.png)
+
 ## 📌 Objectif du projet
 Créer une plateforme complète d'analyse de données de films, depuis la structuration d'une base de données relationnelle jusqu'au développement d'une API REST performante, d’un SDK Python, et d’une application web interactive.
 
